@@ -1059,7 +1059,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework",
-                "reference": "abee6206dfe430d8269d689337f4163de6e0b0fd"
+                "reference": "aeb042db03517edb44d272c364d0aa196ac4425e"
             },
             "require": {
                 "brick/math": "^0.11|^0.12|^0.13|^0.14",
@@ -1272,7 +1272,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-09-12T14:33:44+00:00"
+            "time": "2025-09-13T11:52:18+00:00"
         },
         {
             "name": "laravel/prompts",
