@@ -4,21 +4,13 @@
 
 ```sh
 cp .env.example .env
-```
 
-```sh
 composer install
-```
 
-```sh
 npm install
-```
 
-```sh
 php artisan migrate:fresh --seed
-```
 
-```sh
 composer dev
 ```
 
